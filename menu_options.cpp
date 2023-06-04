@@ -5,7 +5,7 @@
 #include <iostream>
 #define MAX_VALUE 65536
 using namespace std;
-#include "tbt.cpp"
+#include "threaded_binary_tree.cpp"
 
 class menu_options {
 public:
